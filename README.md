@@ -9,7 +9,11 @@
   <a href="#-licença">Licença</a>
 </p>
 
-<p align="center"></p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+</p>
 
 <br>
 
