@@ -44,7 +44,7 @@ Agora você pode acessar [`localhost:8080`](http://localhost:8080) do seu navega
 
 ## 🌐 Implementação no Netlify
 
-Acesse [``]() do seu navegador.
+Acesse [`https://web-suco-fresh.netlify.app/`](https://web-suco-fresh.netlify.app/) do seu navegador.
 
 ## 📝 Licença
 
