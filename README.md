@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="" title="" src=".github/brand.svg" />
+    <img alt="" title="" src="github/brand.svg" />
 </h1>
 
 <p align="center">
@@ -9,16 +9,12 @@
   <a href="#-licença">Licença</a>
 </p>
 
-<p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=15C3D6&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=15C3D6&labelColor=000000">
-</p>
+<p align="center"></p>
 
 <br>
 
 <p align="center">
-  <img alt="" src=".github/banner.png" width="100%">
+  <img alt="" src="github/banner.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -36,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Descrição
+Suco Fresh é uma indústria especializada na produção de sucos clarificados concentrados e polpas concentradas. Nossa alta tecnologia permite a entrega de produtos envasados assepticamente, garantindo a preservação das características das frutas, alta qualidade e redução com custos de armazenagem.
 
 ## 🚀 Start Projeto
 
@@ -46,10 +42,14 @@ Descrição
 
 Agora você pode acessar [`localhost:8080`](http://localhost:8080) do seu navegador.
 
+## 🌐 Implementação no Netlify
+
+Acesse [``]() do seu navegador.
+
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
-Feito com por Jessé Martin
+Feito com por Jessé Martins
