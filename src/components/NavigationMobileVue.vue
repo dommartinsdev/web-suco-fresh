@@ -9,6 +9,9 @@
         <div class="offcanvas-body">
             <div class="navbar-nav ms-auto">
                 <a class="nav-link" href="/">INÍCIO</a>
+                <a class="nav-link" href="/about">SOBRE NÓS</a>
+                <a class="nav-link" href="/store">ONDE COMPRAR</a>
+                <a class="nav-link" href="/contact">CONTATO</a>
             </div>
         </div>
     </div>
