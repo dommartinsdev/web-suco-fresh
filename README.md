@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="" title="" src="github/brand.svg" />
+    <img alt="" title="" src="github/brand.svg" width="35%"/>
 </h1>
 
 <p align="center">
@@ -9,7 +9,11 @@
   <a href="#-licença">Licença</a>
 </p>
 
-<p align="center"></p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+</p>
 
 <br>
 
@@ -44,7 +48,7 @@ Agora você pode acessar [`localhost:8080`](http://localhost:8080) do seu navega
 
 ## 🌐 Implementação no Netlify
 
-Acesse [``]() do seu navegador.
+Acesse [`https://web-suco-fresh.netlify.app/`](https://web-suco-fresh.netlify.app/) do seu navegador.
 
 ## 📝 Licença
 
