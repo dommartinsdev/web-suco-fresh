@@ -14,12 +14,6 @@
         </div>
     </section>
 </template>
-<script>
-export default {
-    name: 'AboutView',
-    components: {}
-}
-</script>
 <style>
     .sf-about-01 {
         padding: 80px 0px;
@@ -44,3 +38,9 @@ export default {
     @media (max-width: 1199.98px) {}
     @media (max-width: 1399.98px) {}
 </style>
+<script>
+export default {
+    name: 'AboutView',
+    components: {}
+}
+</script>
